@@ -1,0 +1,6 @@
+[submodule "client/Notion_clone_client"]
+	path = client/Notion_clone_client
+	url = https://github.com/rinrinkurukuru/Notion_clone_client.git
+[submodule "server/Notion_clone_server"]
+	path = server/Notion_clone_server
+	url = https://github.com/rinrinkurukuru/Notion_clone_server.git
